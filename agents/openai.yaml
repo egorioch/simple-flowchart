@@ -1,0 +1,4 @@
+interface:
+  display_name: "Бизнес-сценарии"
+  short_description: "Use Cases по фактическому поведению с Mermaid"
+  default_prompt: "Используй $business-use-cases для описания бизнес-сценариев на русском языке по фактическому поведению проекта."
